@@ -1,0 +1,11 @@
+you should create function that takes host and port. Atfer that you should create TCP connection on that port and calculate 100 times expression that server will send to you.
+
+For example:
+server: 1 + 1
+function: 2
+
+server: 1 - 2
+function: -1
+
+server: 4 * 5
+function 20

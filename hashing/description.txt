@@ -1,0 +1,2 @@
+You should creates function that takes hex-encoded sha256 hash and first 29 bytes of 32byte length string
+you should return 32 byte length string with given sha256 hash value

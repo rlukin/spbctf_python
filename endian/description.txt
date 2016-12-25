@@ -1,0 +1,6 @@
+fucntion solve takes name of the file and return list of integers that stored in this file
+
+integers are stored that way:
+'b'<big endian integer>
+'l'<little endian integer>
+

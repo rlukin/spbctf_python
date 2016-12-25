@@ -1,0 +1,1 @@
+you should implement solve function that takes character and return True if it digits and False otherwise
